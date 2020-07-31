@@ -1,1 +1,1 @@
-{"player_tracker":{"$func":["update_target","main","update_target","reload"]}}
+{"player_tracker":{"$func":["update_target","main","update_target","reload","find_target","give_compass"]}}
